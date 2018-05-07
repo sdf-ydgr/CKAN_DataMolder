@@ -1,0 +1,5 @@
+Run `sphinx-apidoc -o . ../../mold_data' in this directory.
+
+This will generate `modules.rst' and `mold_data.rst'.
+
+Then include `modules.rst' in your `index.rst' file.
